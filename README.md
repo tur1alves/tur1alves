@@ -4,4 +4,4 @@
 - corinthiano
 - emilianopolis 018
 
-"[](https://media.tenor.com/otJaZBLIjhoAAAAi/yin-yang-wheel.gif)
+![](https://media.tenor.com/otJaZBLIjhoAAAAi/yin-yang-wheel.gif)
